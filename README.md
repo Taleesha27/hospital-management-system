@@ -1,7 +1,17 @@
-# hospital-management-system
-Advanced Hospital Management System in C++ featuring 
-1. Trie Search,
-2. LRU Cache, 
-3. Segment Tree, 
-4. Dijkstra Algorithm, and 
-5. Emergency Priority Queue
+# Advanced Hospital Management System
+
+A menu-driven Hospital Management System developed in C++.
+
+Key Features:
+- Patient Management
+- Doctor Management
+- Trie-based Search & Autocomplete
+- LRU Cache for Recent Records
+- Segment Tree for Bed Availability
+- Dijkstra Algorithm for Scheduling
+- Emergency Priority Queue
+
+Technologies:
+- C++
+- STL
+- Data Structures & Algorithms
